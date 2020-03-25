@@ -1,0 +1,4 @@
+name: DisableWithers
+version: 0.1
+main: me.moomoo.disablewithers.main
+description: Disable withers for server.
